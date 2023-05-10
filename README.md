@@ -1,2 +1,20 @@
-# chelsey
-My personal repo
+<h1 align="center">Hi 👋, I'm Chelsey Cornejo</h1>
+<h3 align="center">I’m a Front-End Web Developer based in Toronto.</h3>
+
+Before changing careers, I worked as a Senior Buyer and understand the importance of paying attention to details in procurement processes. Similarly, in development, even the slightest errors can have significant consequences, so attention to detail is crucial. In my previous role, I analyzed data comparisons for new price books and vendor quotes. In development, we analyze website metrics to make informed decisions on design and functionality. I navigated complex processes in our company's software, troubleshooting issues that arose, which is also a valuable skill in development where debugging code and website troubleshooting are important tasks. Though my procurement experience may not seem directly related to coding, my skills have contributed to my success in development.
+
+I aim to deliver accessible web applications with responsive designs. Going forward, I aspire to learn more back-end languages to advance my skill set. 
+
+👩🏽‍💻 All of my projects are available at [https://chelseycornejo.com/](https://chelseycornejo.com/)
+
+💬 Ask me about **Dobby and Kovu (my dog and cat), books, indoor plants and anything outdoors related!**
+
+📫 How to reach me <a href="https://calendly.com/chelseycornejo/coffee-chat">**Calendly**</a> or <a href="https://linkedin.com/in/chelsey-cornejo" target="blank">**LinkedIn**</a>
+
+<h3 align="left">🧠 Current Stack:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<h3 align="left">🌱 In Progress:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chelseycornejo&show_icons=true&locale=en" alt="chelseycornejo" /></p>
