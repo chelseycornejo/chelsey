@@ -12,7 +12,7 @@ Before changing careers, I worked as a Senior Buyer and understand the importanc
 ### 🌱 In Progress:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chelseycornejo&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
